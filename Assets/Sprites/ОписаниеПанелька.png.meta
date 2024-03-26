@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 79ecaf7e8ee689a4aaaa7a46d3b25a57
+guid: 9ac4acdc256f2564dada744257965b1e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -53,7 +53,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 7
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -69,7 +69,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -115,7 +115,28 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435\u041F\u0430\u043D\u0435\u043B\u044C\u043A\u0430_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 1920
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78758fc718f2f4f995d5627bd6d52c
+      internalID: 1897685148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +147,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435\u041F\u0430\u043D\u0435\u043B\u044C\u043A\u0430_0": 1897685148
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
